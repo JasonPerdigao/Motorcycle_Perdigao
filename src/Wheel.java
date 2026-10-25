@@ -1,3 +1,14 @@
+/**
+ * Project: Lab 1.5 Motorcycle
+ * Purpose Details: Defines a motorcycle object
+ * Course: Java
+ * Author: Jason Perdigao
+ * Date Developed: 10/12/2026
+ * Last Date Changed: 10/25/2026
+ * Revision: 9.0
+ */
+
+
 public class Wheel {
     private int size;
     private String brand;
